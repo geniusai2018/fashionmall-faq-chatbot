@@ -8,7 +8,6 @@ LangChain, OpenAI Embeddings, FAISS, Streamlit을 활용하여 구현한
 
 ---
 
----
 
 # 📌 프로젝트 소개
 
